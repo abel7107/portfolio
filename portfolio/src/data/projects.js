@@ -68,7 +68,7 @@ export const projects = [
     name: "E-Commerce Application",
     description:
       "A web application featuring products, collections, checkout, and order-related functionality.",
-    tech: ["React", "Node.js", "Express.js", "PostgreSQL", "Tailwind CSS"],
+    tech: ["PHP", "CSS", "JavaScript"],
     features: [
       "Product listing and collections",
       "Product details",
