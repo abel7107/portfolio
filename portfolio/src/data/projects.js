@@ -40,14 +40,14 @@ export const projects = [
     name: "Hospital Management System",
     description:
       "A system for managing patients, doctors, appointments, medical records, and billing.",
-    tech: ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
+    tech: ["JavaScript", "HTML", "CSS"],
     features: [
       "Patient and doctor records",
       "Appointment scheduling",
       "Medical records management",
       "Billing support",
     ],
-    githubUrl: "", // TODO: add your repo URL
+    githubUrl: "https://github.com/abel7107/hosipital",
     demoUrl: "", // TODO: add live demo URL if available
   },
   {
