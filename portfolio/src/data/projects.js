@@ -89,7 +89,7 @@ export const projects = [
       "Search by category",
       "Contact flow concept",
     ],
-    githubUrl: "", // TODO
+    githubUrl: "https://github.com/Algo-chan/Local-service-connector",
     demoUrl: "", // TODO
   },
 ];
