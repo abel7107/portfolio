@@ -75,7 +75,7 @@ export const projects = [
       "Checkout flow",
       "Order management",
     ],
-    githubUrl: "", // TODO
+    githubUrl: "https://github.com/Algo-chan/mini-eccomerce-system-",
     demoUrl: "", // TODO
   },
   {
