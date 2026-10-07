@@ -25,11 +25,19 @@ export default function About() {
           </p>
         </div>
 
-        {/* Profile image placeholder — swap for an <img> later */}
+        {/* Profile picture — add your image path to the src attribute */}
         <div className="flex justify-center lg:justify-end">
-          <div className="flex aspect-square w-56 flex-col items-center justify-center rounded-2xl border border-dashed border-line bg-panel text-center sm:w-64">
+          <img
+            src="/abel-profile.jpg"
+            alt="Abel profile photo"
+            className="object-cover w-full h-full rounded-2xl border border-dashed border-line bg-panel"
+            width={200}
+            height={200}
+            loading="lazy"
+          />
+          {/* Fallback initial if image fails to load */}
+          <div className="absolute inset-0 rounded-2xl border border-dashed border-line bg-panel flex items-center justify-center">
             <span className="font-mono text-5xl text-accent">A</span>
-            <p className="mt-3 px-6 text-xs text-muted">Profile photo placeholder — replace with your image</p>
           </div>
         </div>
       </div>

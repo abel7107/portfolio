@@ -6,7 +6,6 @@ const icons = { Layout, Server, Database, ShieldCheck, Wrench, TrendingUp };
 
 const levelStyles = {
   Comfortable: "bg-accent-soft text-accent",
-  "Working knowledge": "bg-accent-soft text-accent",
   "Currently learning": "border border-dashed border-accent/40 text-accent",
 };
 

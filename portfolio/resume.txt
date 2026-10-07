@@ -1,0 +1,73 @@
+RESUME
+Abel Mua
+Software Engineering Student | Full-Stack Developer
+Dire Dawa, Ethiopia
+• Email: alemua241@gmail.com
+• GitHub: https://github.com/abel7107
+• LinkedIn: https://www.linkedin.com/in/abel-mua
+
+PROFESSIONAL SUMMARY
+Software Engineering student passionate about building useful software and solving real-world problems through technology. Started by learning HTML, CSS, JavaScript, and PHP, now learning React, Node.js, Express.js, and PostgreSQL as I grow into full-stack development. Experienced in building full-stack applications from database schema to frontend interfaces, with a focus on project-driven learning and practical software architecture.
+
+EDUCATION
+Software Engineering Student | Dire Dawa University
+• Currently pursuing Software Engineering degree
+• Focus areas: Object-Oriented Programming, Database Systems, Web Development, Software Architecture, System Programming, System Security
+
+INDEPENDENT FULL-STACK DEVELOPMENT
+• Learn by building projects end-to-end: designing architecture, building database schema, writing backend API, creating frontend interface, and shipping the result
+• LostLink ( largest example of project-based learning), plus smaller systems like hospital, dormitory, and e-commerce applications
+
+TECHNICAL SKILLS
+Languages: HTML (Comfortable), CSS (Comfortable), JavaScript (Comfortable), PHP (Comfortable), Dart, C++, CMake
+Currently Learning: React, Node.js, Express.js, PostgreSQL
+Mobile Development: Flutter, Dart (80.8% of codebase)
+
+PROJECTS
+1. LostLink - Full-Stack Lost & Found Platform
+   • Full-stack platform for reporting, discovering, and recovering lost items
+   • Features: User registration/authentication, item reporting, search/filtering, messaging between users, REST API, JWT authentication, bcrypt password storage, Prisma + PostgreSQL/SQLite database
+   • Technologies: React, Tailwind CSS, Node.js, Express.js, Prisma, PostgreSQL/SQLite, JWT, bcrypt
+   • GitHub: https://github.com/abel7107/myrealworldproject
+
+2. Coffee Shop - Full-Stack Coffee Shop Ordering System
+   • Full-stack ordering and management system for tracking orders, inventory, and customer preferences
+   • Features: Menu management, order placement/tracking, inventory tracking, customer accounts, payment integration
+   • Technologies: React, Node.js, Express.js, PostgreSQL
+
+3. Hospital Management System
+   • System for managing patients, doctors, appointments, medical records, and billing
+   • Technologies: JavaScript, HTML, CSS
+
+4. E-Commerce Application
+   • Web application featuring products, collections, checkout, and order functionality
+   • Technologies: PHP, CSS, JavaScript
+
+5. Local Service / Mobile Application
+   • Service-discovery concept for connecting users with local service providers
+   • Technologies: Flutter, Dart, C++, CMake (80.8% Dart dominance)
+
+EXPERIENCE & LEARNING
+Software Engineering Student | Dire Dawa University
+• Focus areas covered through coursework and practice: Software Engineering, Object-Oriented Programming, Database Systems, Web Development, Software Architecture, System Programming, System Security
+
+Independent Full-Stack Development
+• Outside the classroom, learn by building projects end-to-end
+• Design architecture, build database schema, write backend API, create frontend interface, and ship results
+• Practice different parts of the stack through various project types
+
+COURSES
+• Software Engineering
+• Programming
+• Database Systems
+• Web Development
+• Software Architecture
+• Software Engineering Practices
+
+PUBLICATIONS & LINKS
+• Resume PDF: /resume.pdf (to be added)
+• GitHub: https://github.com/abel7107
+• LinkedIn: https://www.linkedin.com/in/abel-mua
+
+REFERENCES
+Available upon request

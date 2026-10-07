@@ -7,7 +7,7 @@ export const profile = {
   email: 'alemua241@gmail.com',
   githubUsername: 'abel7107',
   github: 'https://github.com/abel7107',
-  linkedin: 'https://www.linkedin.com/in/your-profile', // TODO: your LinkedIn URL
+  linkedin: 'https://www.linkedin.com/in/abel-mua', // TODO: replace with your actual LinkedIn URL
   resumeUrl: '/resume.pdf', // TODO: drop your resume PDF into the public/ folder
 }
 

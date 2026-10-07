@@ -51,18 +51,19 @@ export const projects = [
     demoUrl: "", // TODO: add live demo URL if available
   },
   {
-    name: "University / Dormitory Management System",
+    name: "Coffee Shop",
     description:
-      "A management application designed to organize student and dormitory-related operations.",
-    tech: ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
+      "A full-stack coffee shop ordering and management system for tracking orders, inventory, and customer preferences.",
+    tech: ["HTML", "CSS", "javascript"],
     features: [
-      "Student record management",
-      "Room and dormitory assignment",
-      "Basic reporting",
-      "Admin management",
+      "Menu management",
+      "Order placement and tracking",
+      "Inventory tracking",
+      "Customer accounts",
+      "Payment integration",
     ],
-    githubUrl: "", // TODO
-    demoUrl: "", // TODO
+    githubUrl: "https://github.com/abel7107/coffee-shop.git",
+    demoUrl: "", // TODO: add live demo URL if available
   },
   {
     name: "E-Commerce Application",
@@ -82,7 +83,7 @@ export const projects = [
     name: "Local Service / Mobile Application",
     description:
       "A service-discovery concept focused on connecting users with local service providers.",
-    tech: ["React", "Node.js", "Express.js", "REST APIs"],
+    tech: ["Flutter", "Dart", "C++", "javascript","HTML","CSS","CMake"],
     features: [
       "Service listing",
       "Provider profiles",
