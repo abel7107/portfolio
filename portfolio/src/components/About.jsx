@@ -25,7 +25,7 @@ export default function About() {
           </p>
         </div>
 
-        {/* Profile picture — add your image path to the src attribute */}
+        {/* Profile picture */}
         <div className="flex justify-center lg:justify-end">
           <img
             src="/abel-profile.jpg"
@@ -35,10 +35,6 @@ export default function About() {
             height={200}
             loading="lazy"
           />
-          {/* Fallback initial if image fails to load */}
-          <div className="absolute inset-0 rounded-2xl border border-dashed border-line bg-panel flex items-center justify-center">
-            <span className="font-mono text-5xl text-accent">A</span>
-          </div>
         </div>
       </div>
     </section>
